@@ -1,0 +1,169 @@
+* {
+    margin: 1;
+    padding: 5;
+    
+}
+#header{
+    justify-self:center;
+    position: relative;
+    text-align:center;
+    background-color: rgb(179, 150, 150);
+    color: rgb(226, 14, 14);
+    font-family:'algerian';
+     width:105%;
+     height:fit-content;
+}
+
+#link {
+    
+    padding: 10px ;
+    display: flex;
+    
+  }
+
+h1{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    color: rgb(103, 13, 13);
+   
+    font-family:'algerian';
+}
+
+    h2{
+
+        background-color: Orgb(0, 0, 69);
+        color: rgb(181, 32, 114);
+        text-align: center;
+        font-family: 'Gill Sans';
+}
+p{
+    background-color: Orgb(0, 0, 69);
+    color: rgb(1, 1, 18);
+    text-align: center;
+    font-family: 'Gill Sans'
+}
+body {
+    font-family: 'Arial', sans-serif;
+    color: #150101;
+   display:flexbox;
+    background-color: #561b1b00;}
+    
+DIV{
+    width: 75%;
+    height: 100%;
+    justify-self: center;
+    font-size: x-large;
+}
+
+#d1{
+   background-color: aqua;
+    font-style: italic;
+
+   justify-items:center;
+    text-align:center;
+    
+}
+
+
+#d2{font-style: italic;
+    background-color: rgb(58, 152, 80);
+    justify-items:center;
+     text-align:center;
+    
+ }
+
+ 
+#d3{font-style: italic;
+    background-color: rgb(219, 133, 111);
+    justify-items:center;
+     text-align:center;
+   
+ }
+
+ 
+#d4{font-style: italic;
+    background-color: rgb(168, 180, 75);
+    justify-items:center;
+     text-align:center;
+     
+ }
+
+ 
+#d5{font-style: italic;
+    background-color: rgb(54, 91, 139);
+    justify-items:center;
+     text-align:center;
+ 
+ }
+
+ 
+#d6{font-style: italic;
+    background-color: rgb(94, 73, 170);
+    justify-items:center;
+     text-align:center;
+     
+ }
+
+ 
+#d7{font-style: italic;
+    background-color: rgb(163, 42, 168);
+    justify-items:center;
+     text-align:center;
+  
+ }
+
+ 
+#d8{font-style: italic;
+    background-color: rgba(200, 60, 128, 0.538);
+    justify-items:center;
+     text-align:center;
+     border-image-width:200px;
+}
+ 
+#d9{
+    
+    font-style: italic;
+    background-color: rgb(65, 170, 186);
+    justify-items:center;
+     text-align:center;
+     
+ }
+
+ 
+#d10{font-style: italic;
+    background-color: rgb(129, 54, 191);
+    justify-items:center;
+     text-align:center;
+     
+ }
+
+ 
+#d11{font-style: italic;
+    background-color: rgb(212, 116, 75);
+    justify-items:center;
+     text-align:center;
+     
+ }
+ 
+#d12{font-style: italic;
+    background-color: rgb(42, 168, 71);
+    justify-items:center;
+     text-align:center;
+   
+ }
+ body{p{
+    
+    font-family: algerian;
+   text-align: center;
+   justify-items: center;
+ } }
+body{a{
+   font-family: Algerian;
+   text-align: var(center);
+ } 
+}
+body{b{
+    font-family:mathura 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: var(center);
+  } 
+ }
